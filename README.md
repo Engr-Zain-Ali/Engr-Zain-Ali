@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Flutter**
 
-- 🌱 I’m currently learning **flutter,Node.js,php**
+- 🌱 I’m currently learning **flutter,Getx**
 
 - 👯 I’m looking to collaborate on **collaborating with startups and companies globally as a mobile app developer.**
 
